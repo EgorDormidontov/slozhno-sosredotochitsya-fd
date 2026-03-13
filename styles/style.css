@@ -383,9 +383,17 @@
     gap: 10px;
   }
 
+  .header__title{
+    margin-inline: -20px;
+  }
+
   .reasons,
   .advice {
     grid-template-columns: 315px 1fr;
+  }
+  
+  .factors{
+    gap:0px;
   }
 
   .factors .cards-list {
