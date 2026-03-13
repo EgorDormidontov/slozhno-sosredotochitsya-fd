@@ -1,12 +1,10 @@
 :root.theme-dark {
   --page-bg-color: #000028;
   --page-bg-image: url("../images/cover-image-dark.png");
-
   --accent-color: #ff0070;
   --decor-color: #ff0070;
   --button-color: #ff0070;
   --button-hover-color: rgb(255 0 112 / 0.4);
-
   --main-title-color: #db00ff;
   --section-title-color: #ff0070;
   --title-decor-text-color: #000028;
@@ -21,12 +19,10 @@
   :root.theme-auto {
     --page-bg-color: #000028;
     --page-bg-image: url("../images/cover-image-dark.png");
-
     --accent-color: #ff0070;
     --decor-color: #ff0070;
     --button-color: #ff0070;
     --button-hover-color: rgb(255 0 112 / 0.4);
-
     --main-title-color: #db00ff;
     --section-title-color: #ff0070;
     --title-decor-text-color: #000028;

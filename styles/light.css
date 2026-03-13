@@ -1,12 +1,10 @@
 :root.theme-light {
   --page-bg-color: #fff1f7;
   --page-bg-image: url("../images/cover-image-light.png");
-
   --accent-color: #ff8dcb;
   --decor-color: #353430;
   --button-color: #353430;
   --button-hover-color: rgb(50 49 45 / 0.4);
-
   --main-title-color: #ffc2e6;
   --section-title-color: #353430;
   --title-decor-text-color: #353430;
