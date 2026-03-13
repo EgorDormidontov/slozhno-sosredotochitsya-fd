@@ -117,10 +117,9 @@
   align-self: center;
   justify-self: end;
   font-weight: 700;
-  font-style: Bold;
   font-size: var(--main-font-size);
   line-height: var(--main-line-height);
-  letter-spacing: 0%;
+  letter-spacing: 0px;
 }
 
 .main {
@@ -131,7 +130,6 @@
 .content-section {
   display: grid;
   gap: var(--section-gap);
-  background-color: var(--page-bg-color);
 }
 
 .content-section:not(:last-child) {
