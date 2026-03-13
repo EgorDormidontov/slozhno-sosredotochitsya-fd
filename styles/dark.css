@@ -11,6 +11,10 @@
   --text-color: #f1b2ce;
 }
 
+:root.theme-dark .header__rec {
+  display: block;
+}
+
 @media (prefers-color-scheme: dark) {
   :root.theme-auto {
    --page-bg-color: #000028;
@@ -23,5 +27,8 @@
   --section-title-color: #ff0070;
   --title-decor-text-color: #000028;
   --text-color: #f1b2ce;
+  }
+  :root.theme-dark .header__rec {
+  display: block;
   }
 }
