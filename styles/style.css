@@ -68,12 +68,12 @@
 .header__theme-menu {
   align-self: start;
   justify-self: end;
-  margin-block: 55px;
+  margin-block: 65px;
 }
 
 .header__theme-menu-list {
   display: grid;
-  gap: 10px;
+  gap: 5px;
 }
 
 .header__theme-menu-button {
