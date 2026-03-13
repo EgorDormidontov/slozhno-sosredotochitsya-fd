@@ -11,7 +11,7 @@
   --text-color: #f1b2ce;
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root.theme-auto {
    --page-bg-color: #000028;
   --page-bg-image: url("../images/cover-image-dark.png");
