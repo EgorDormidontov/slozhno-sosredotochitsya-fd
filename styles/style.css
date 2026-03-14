@@ -124,7 +124,6 @@
 
 .main {
   padding: 40px var(--page-padding);
-  background-color: var(--page-bg-color);
 }
 
 .content-section {
@@ -214,7 +213,6 @@
   height: 100vh;
   padding: 0 var(--page-padding);
   place-items: center;
-  background-color: var(--page-bg-color);
 }
 
 .footer__title {
